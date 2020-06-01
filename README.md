@@ -1,2 +1,5 @@
 # Hello-Word
-Alvito dan Sinta hidup bersama selamanya
+
+
+saya Alvito Bagus Deanova sangat menyukai coding dan saya juga masih belajar tentang coding
+terutama html dll.
